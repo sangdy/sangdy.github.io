@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+
+    <style>
+        
+
+        .clearfix:before,
+        .clearfix:after {
+         content: " ";
+         display: table;
+          }
+
+        .clearfix:after {
+         clear: both;
+          }
+        
+        .box{width: 100%;background-color: #eee;border: 3px solid black}
+        .left{height: 50px;width: 20%;background-color: blue;float: left;}
+        .right{height: 50px;width: 80%;background-color: #ddd;float: right;}
+
+
+    </style>
+
+</head>
+<body>
+	<div class="box clearfix">
+		<div class="left">
+            <ul>
+            <li>1</li>
+        </ul>
+    </div>
+		<div class="right">
+            <h1>2015年12月4号</h1>
+        </div>
+	</div>
+
+
+</body>
+</html>
