@@ -36,6 +36,7 @@ ul {
 
 .hero {
 	background-color: rgb(0, 188, 212);
+	
 }
 
 .hero h1 {
@@ -43,13 +44,14 @@ ul {
 	font-weight: normal;
 	color: #fff;
 	text-align: center;
+	margin: 0 auto;
 }
 
 
 .toc {
-	/*border: 3px solid red;*/
-	width: 960px;
 	margin: 20px auto;
+	padding: 0 10px;
+	max-width: 900px;
 }
 
 .toc li {
@@ -78,20 +80,19 @@ li a:hover {
 .toc a .id {
 	height: 96px;
 	background-color: rgb(0, 188, 212);
-	width: 48px;
-	float: left;
+	width: 100%;
 	color: white;
 	line-height: 96px;
 	text-align: center;
 }
 .toc a .detail {
 	height: 96px;
-	width: 910px;
-	float: right;
+	width: 100%;
 	padding-left: 10px;
+	text-align: center;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 500px) {
 	.toc a .id {
 		width: 20%;
 		float: left;
@@ -99,6 +100,7 @@ li a:hover {
 	.toc a .detail {
 		width: 80%;
 		float: right;
+		text-align: left;
 	}
 }
 
