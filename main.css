@@ -91,6 +91,18 @@ li a:hover {
 	padding-left: 10px;
 }
 
+@media (min-width: 600px) {
+	.toc a .id {
+		width: 20%;
+		float: left;
+	}
+	.toc a .detail {
+		width: 80%;
+		float: right;
+	}
+}
+
+
 .toc a .detail .title {
 	font-size: 1.3rem;
 	line-height: 2.3;
