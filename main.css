@@ -34,9 +34,67 @@ ul {
 /* section */
 
 
+a.hamburger {
+
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+    cursor: pointer;
+    transition: background-color .6s;
+}
+a.hamburger i {
+    
+	color: white;
+}
+
+a.hamburger:hover {
+  background-color: rgba(255,255,255, .3);
+}
+
+
+.sidebar {
+	width: 250px;
+	background-color: #fff;
+	position: fixed;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	z-index: 100;
+	transform: translateX(-250px);
+	transition: transform .5s;
+}
+
+.sidebar.show {
+	transform: translateX(0);
+	
+}
+
+.ui-mask {
+  background-color: rgba(0,0,0,0.5);
+  height: 100%;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 3;
+  position: fixed;
+  display: none;
+}
+
+.ui-mask.show {
+	display: block;
+}
+
+
+
 .hero {
 	background-color: rgb(0, 188, 212);
-	
+
 }
 
 .hero h1 {
@@ -112,4 +170,11 @@ li a:hover {
 
 .toc a .detail .date {
 	opacity: .8;
+}
+
+
+footer {
+	margin-top: 80px;
+	height: 100px;
+	background-color: #212121;
 }
