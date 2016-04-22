@@ -1,0 +1,25 @@
+   nav .home{display: block;background-color:#c32300;}
+   nav .home a{color:#ffffff;}
+   section{width: 1200px;margin:0 auto;overflow: hidden;border: 1px solid green;margin-top: 220px;}
+   section .main-top, .main-bottom{float: left; width: 1200px;border: 1px red solid;}
+
+   .main-top .left{float:left;margin-right: 25px;}
+   .main-top .left h3 ,.main-bottom h3{padding-left: 60px;font-size:20px;font-family: Arial, Helvetica, sans-serif;font-weight:lighter;color:#272727;padding-top: 4px;}
+   .main-top  h4{padding-left: 60px;font-size:16px;font-family: Arial, Helvetica, sans-serif;color:#d43400;padding:8px 60px;}
+   .main-top  p{color:#808080;font-size:16px;font-family: Arial, Helvetica, sans-serif;line-height: 28px;padding-left: 60px;}
+   .main-top  p a{font-size:17px;font-family: Arial, Helvetica, sans-serif;font-family:Arial, Helvetica, sans-serif;color: #d43400;padding-bottom: 40px;}
+   .main-top .center{float:left;}
+   .main-top .center{padding-top: 27px;}
+
+   .main-top .right{float:left;margin-left: 80px;}
+   .main-top .right h3{font-size:20px;font-family: Arial, Helvetica, sans-serif;font-weight:lighter;color:#272727;padding-top: 4px;padding-bottom: 15px;}
+   .main-top .right ul{font-size:16px;font-family: Arial, Helvetica, sans-serif;line-height: 32px;padding-top: 14px;}
+   .main-top .right ul li{background-image: url(images/marker-1.gif);background-repeat: no-repeat;padding-left: 14px;background-position: left center;}
+   .main-top .right ul li a{color:#808080;}
+   .main-top .right span a{color:#ffffff;font-size:17px;font-family: Arial, Helvetica, sans-serif;display:block;width: 120px;height: 26px;font-family:Arial, Helvetica, sans-serif;text-align:center;background-color: #d43400;line-height:26px;font-weight: lighter;margin-top: 10px;}
+   .main-bottom{margin:48px 0px;}
+   .main-bottom img{float:left;margin-left:60px;margin-right:27px;margin-top:40px;}
+   .main-bottom .article span{padding-top:10px;color:#d43400;font-size:16px;font-family: Arial, Helvetica, sans-serif;}
+   .main-bottom .article p{float:left;padding-top:4px;color:#808080;font-size:16px;font-family: Arial, Helvetica, sans-serif;line-height: 30px;}
+   .main-bottom .article article{padding-top:15px;color:#808080;font-size:16px;font-family: Arial, Helvetica, sans-serif;line-height: 30px;}
+  

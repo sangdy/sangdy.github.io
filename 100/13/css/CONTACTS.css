@@ -1,0 +1,21 @@
+    nav .home{display: block;background-color:#c32300;}
+    nav .home a{color:#ffffff;}
+    section{width: 1200px;margin:0 auto;overflow: hidden;border: 1px solid green;margin-top: 220px;}
+    .left{float:left;}
+    .left h3{padding-left: 60px;font-size:20px;font-family: Arial, Helvetica, sans-serif;font-weight:lighter;color:#272727;padding-top: 4px;padding-bottom: 15px;}
+    .about{padding-left: 60px;padding-top:18px;color:#808080;font-size:16px;font-family: Arial, Helvetica, sans-serif;line-height: 40px;}
+    .about .text1 .your{float:left;}
+    .about .text1 .border{float:left;width: 620px;height: 33px;border: 1px solid #dcdada;margin-left: 30px;background-color: #ffffff;}
+    .about .text2 .your{clear:both;float:left;}
+    .about .text2 .border{float:left;width: 620px;height: 33px;border: 1px solid #dcdada;margin-left: 33px;background-color: #ffffff;}
+    .about .text3 .your{clear:both;float:left;}
+    .about .text3 .border{float:left;width: 620px;height: 280px;border: 1px solid #dcdada;margin-left: 9px;background-color: #ffffff;}
+    .left .bot div a{clear:both;float:left;color:#ffffff;font-size:18px;font-family: Arial, Helvetica, sans-serif;display:block;width: 130px;height: 36px;font-family:Arial, Helvetica, sans-serif;text-align:center;background-color: #d43400;line-height:36px;font-weight: lighter;margin-top: 25px;margin-left: 520px;}
+    .left .bot span a{float:left;color:#ffffff;font-size:18px;font-family: Arial, Helvetica, sans-serif;display:block;width: 130px;height: 36px;font-family:Arial, Helvetica, sans-serif;text-align:center;background-color: #d43400;line-height:36px;font-weight: lighter;margin-left: 18px;margin-top: 25px;margin-bottom: 48px;}
+    .right{float:left;margin-left: 80px;}
+    .right h3{font-size:20px;font-family: Arial, Helvetica, sans-serif;font-weight:lighter;color:#272727;padding-top: 4px;padding-bottom: 15px;}
+    .right-bot{margin-top:285px;}
+    .right-bot p{color:#808080;font-size:16px;font-family: Arial, Helvetica, sans-serif;line-height: 32px;}
+    .right .right-bot ul{float: left;padding-right:40px;padding-top: 12px;}
+    .right .right-bot ul li a{font-family:Arial, Helvetica, sans-serif;line-height:30px;font-size:16px;color:#808080;}
+    .right .right-bot .adress a{color:#da3400;text-decoration: underline;}

@@ -1,0 +1,23 @@
+   *{margin:0;padding:0;}
+   ul{list-style-type: none;}
+   a{text-decoration: none;}
+   nav{border:#c9c7c7 solid 1px;}
+   nav ul {height: 66px;margin: 0 auto;margin-left: 225px;}
+   nav ul li{float:left;width: 200px;list-style-type: none;}
+   nav ul li a{display: block;padding: 24px 50px;color:#272727;font-size:16px;font-family: Arial, Helvetica, sans-serif;font-weight: lighter;border-right: 1px solid #c9c7c7;}
+   nav ul li a:hover{color:#ffffff;background-color: #c32300;}
+   nav .home{display: block;background-color:#c32300;}
+   nav .home a{color:#ffffff;}
+   nav .line{border-left:1px solid #c9c7c7;}
+
+   .logo{float:left;width: 206px;height: 94px;background-image: url(images/logo.png);margin-left:260px;margin-top: 20px;}
+   
+   .top .search{float:left;width: 226px;height: 34px;float: right;border:1px #e4e4e4 solid;margin-top: 55px;margin-right:250px;position: relative;}
+   .top .search .search_input{width: 226px;height: 34px;color: #bfbbbb;position: absolute;background-repeat: no-repeat;background-position: right center;background-image: url(images/search_03.png);}
+
+   section{width: 1200px;margin:0 auto;overflow: hidden;border: 1px solid green;margin-top: 220px;}
+
+   footer{border-top: 1px solid #c9c7c7;}
+   footer p{font-size:14px;font-family: Arial, Helvetica, sans-serif;color:#6a6969;line-height: 24px;text-align: center;}
+   .website span{color:#d43400;}
+   .url span{color:#d43400;text-decoration: underline;}

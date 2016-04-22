@@ -1,0 +1,46 @@
+   body{width: 1423px;background-image: url(images/bgc_03.jpg);background-repeat:repeat-x;}
+   nav .home{display: block;background-color:#c32300;}
+   nav .home a{color:#ffffff;border-left: 1px solid #c9c7c7;}
+   section{width: 1200px;margin:0 auto;overflow: hidden;border: 1px solid green;margin-top: 220px;}
+   
+   .main .main-top .left{float:left;} 
+   .main .main-top .left h3{padding-left: 100px;font-size:20px;font-family: Arial, Helvetica, sans-serif;color:#272727;padding-top: 4px;font-weight:lighter;}
+   .main .main-top .left .list ul{font-size:16px;font-family: Arial, Helvetica, sans-serif;line-height: 34px;padding-left: 100px;padding-top: 18px;}
+   .main .main-top .left .list ul li{background-image: url(images/marker-1.gif);background-repeat: no-repeat;padding-left: 14px;background-position: left center;}
+   .main .main-top .left .list ul li a{color:#808080;}
+   .main .main-top .right {float:left;margin-left: 158px;}
+   .main .main-top .right h3{font-size:28px;font-family: Arial, Helvetica, sans-serif;color:#272727;font-weight:lighter;padding-top: 4px;padding-bottom:14px;}
+   .main .main-top .right .article img{float:left;margin-right: 26px;}
+   .main .main-top .right .article .text{float:left;}
+   .main .main-top .right .article .text p{padding-top:2px;color:#808080;font-size:16px;font-family: Arial, Helvetica, sans-serif;line-height: 24px;}
+   .main .main-top .right .article .text p span{color:#d43400;}
+   .main .main-top .right .article .text p strong{color:#272727;}
+   .main .main-top .right .article .text .title2{padding-top: 13px;}
+
+   .main .main-top .right .article .line-word{clear:both;float:left;padding-top: 13px;height: 30px;}
+   .main .main-top .right .article .line-word p{color:#808080;font-size:16px;font-family: Arial, Helvetica, sans-serif;line-height: 28px;}
+   .main .main-top .right .article .line-word p span{color:#d43400;}
+   .main .main-top .right .article .line-word div a{color:#ffffff;font-size:18px;font-family: Arial, Helvetica, sans-serif;display:block;width: 130px;height: 36px;font-family:Arial, Helvetica, sans-serif;text-align:center;background-color: #d43400;line-height:36px;font-weight: lighter;}
+   .main .main-top .right .article .line-word .bot{float:left;margin-top: 26px;}
+
+   .main-bot .left{clear:both;float:left;}
+   .main-bot .left h3{padding-left: 100px;font-size:20px;font-family: Arial, Helvetica, sans-serif;font-weight:lighter;color:#272727;padding-top: 60px;}
+   .main-bot .left h4{font-size:18px;font-family: Arial, Helvetica, sans-serif;color:#272727;padding-top: 10px;padding-bottom: 6px;}
+   .main-bot .left p{padding-top:2px;color:#808080;font-size:16px;font-family: Arial, Helvetica, sans-serif;line-height: 32px;}
+   .main-bot .left .text1,.text2,.text3{margin-left: 100px;}
+
+   .main-bot .center{float:left;}
+   .main-bot .center h3{padding-left: 60px;font-size:20px;font-family: Arial, Helvetica, sans-serif;font-weight:lighter;color:#272727;padding-top: 60px;}
+   .main-bot .center h4{font-size:18px;font-family: Arial, Helvetica, sans-serif;color:#272727;padding-top: 10px;padding-bottom: 8px;}
+   .main-bot .center p{padding-top:2px;color:#808080;font-size:16px;font-family: Arial, Helvetica, sans-serif;line-height: 32px;}
+   .main-bot .center .text1,.center .text2,.center .text3{margin-left: 60px;}
+   .main-bot .center a{color:#d43400;}
+   .main-bot .right{float:left;}
+   .main-bot .right h3{padding-left: 60px;font-size:20px;font-family: Arial, Helvetica, sans-serif;font-weight:lighter;color:#272727;padding-top: 60px;padding-bottom: 20px;}
+   .main-bot .right h4{font-size:18px;font-family: Arial, Helvetica, sans-serif;color:#272727;padding-left: 10px;padding-bottom: 2px;padding-top: 10px;}
+   .main-bot .right p{color:#808080;font-size:16px;font-family: Arial, Helvetica, sans-serif;line-height: 26px;padding-left: 10px}
+   .main-bot .right .text1,.right .text2,.right .text3{margin-left: 60px;}
+   .main-bot .right .text1 img{float:left;margin: 10px 0px;}
+   .main-bot .right .text1 .article,.text2 .article,.text3 .article{float: left;}
+   .main-bot .right .text2 img,.text3 img{clear:both;float:left;margin: 10px 0px;}
+   
